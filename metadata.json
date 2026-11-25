@@ -1,0 +1,6 @@
+{
+  "name": "Rickshaw Rush",
+  "description": "A third-person 3D Bangladeshi pedal rickshaw driving game set on a vibrant, bustling Dhaka street.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
